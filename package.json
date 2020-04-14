@@ -1,0 +1,8 @@
+{
+    "name": "Pomodoro",
+    "displayName": "Pomodoro",
+    "version": "1.0.1",
+    "unity": "2018.3",
+    "description": "A pomodoro editor window for Unity.",
+    "keywords": ["Pomodoro"]
+}
